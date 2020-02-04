@@ -1,5 +1,5 @@
 # A-B-Testing
-Example of Proportion Z-Test for A/B Testing
+Example of Proportion Z-Test for A/B Testing in Python
 
 For more details please visit: \
 Medium: https://medium.com/@iqbalhannif/a-b-testing-untuk-menguji-efektivitas-antara-dua-digital-ads-19485d0225f6 \
